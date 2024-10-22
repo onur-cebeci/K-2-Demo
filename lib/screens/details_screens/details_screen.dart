@@ -43,7 +43,7 @@ class DetailsScreen extends StatelessWidget {
                       angle: 180 * (3.1415927 / 180),
                       child: IconButton(
                         icon: const Icon(
-                          Icons.remove,
+                          Icons.short_text,
                           color: CustomThemeData.blackColor,
                           size: AppConstant.padding30,
                         ),
